@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Greete\\source\\repos\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5959DBA2-CDAD-47D6-B46A-0283A9564BD0}|DiscountCalculator\\DiscountCalculator.csproj|c:\\users\\greete\\source\\repos\\functions\\discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5959DBA2-CDAD-47D6-B46A-0283A9564BD0}|DiscountCalculator\\DiscountCalculator.csproj|solutionrelative:discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1855380B-7D69-4A64-A12A-AEB24BF41554}|Calculator\\Calculator.csproj|c:\\users\\greete\\source\\repos\\functions\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1855380B-7D69-4A64-A12A-AEB24BF41554}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589CB84-F5A7-41FC-B534-AAEAE636F61F}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|c:\\users\\greete\\source\\repos\\functions\\argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2589CB84-F5A7-41FC-B534-AAEAE636F61F}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|solutionrelative:argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8668F7-4015-4EE1-8D40-2284DDF5B3B2}|Functions\\Functions.csproj|c:\\users\\greete\\source\\repos\\functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8668F7-4015-4EE1-8D40-2284DDF5B3B2}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Greete\\source\\repos\\Functions\\DiscountCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Greete\\source\\repos\\Functions\\DiscountCalculator\\Program.cs",
+              "RelativeToolTip": "DiscountCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:06:08.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Greete\\source\\repos\\Functions\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Greete\\source\\repos\\Functions\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:30:51.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Greete\\source\\repos\\Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeDocumentMoniker": "ArgumentsAndParameters\\Program.cs",
+              "ToolTip": "C:\\Users\\Greete\\source\\repos\\Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeToolTip": "ArgumentsAndParameters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:16:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Greete\\source\\repos\\Functions\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Greete\\source\\repos\\Functions\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:55:19.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
